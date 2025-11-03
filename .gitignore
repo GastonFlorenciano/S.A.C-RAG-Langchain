@@ -2,5 +2,6 @@
 vectorstore/
 vectorstore_2/
 vectorstore_3/
+vectorstore_4/
 .env
 __pycache__/
