@@ -1,5 +1,6 @@
 .venv
 vectorstore/
 vectorstore_2/
+vectorstore_3/
 .env
 __pycache__/
